@@ -4,7 +4,6 @@ html {
 
 .page-head {
   font-size: 100px;
-  font-weight: bold;
   color: khaki;
   text-align: center;
   background-image: url("../img/pattern.jpeg");
@@ -12,7 +11,6 @@ html {
 
 .item-type {
   font-size: 32px;
-  font-weight: bold;
   color: white;
 }
 
@@ -33,6 +31,5 @@ html {
 }
 
 .price {
-  font-weight: bold;
   color: blue;
 }
